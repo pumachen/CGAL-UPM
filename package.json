@@ -1,0 +1,19 @@
+{
+  "name": "com.pum4ch3n.cgal-upm",
+  "version": "1.0.0",
+  "displayName": "CGAL UPM",
+  "description": "CGAL UPM Package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/Scrawk/CGALDotNet/wiki",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "Programming",
+    "Geometry Processing"
+  ],
+  "author": {
+    "name": "PUM4CH3N",
+    "email": "18906012399@163.com"
+  }
+}
